@@ -1,0 +1,8 @@
+C:\Users\georg\OneDrive\Desktop\Village\obj\Debug\Village.csproj.AssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Village\obj\Debug\Village.csproj.SuggestedBindingRedirects.cache
+C:\Users\georg\OneDrive\Desktop\Village\obj\Debug\Village.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Village\bin\Debug\Village.exe.config
+C:\Users\georg\OneDrive\Desktop\Village\bin\Debug\Village.exe
+C:\Users\georg\OneDrive\Desktop\Village\bin\Debug\Village.pdb
+C:\Users\georg\OneDrive\Desktop\Village\obj\Debug\Village.exe
+C:\Users\georg\OneDrive\Desktop\Village\obj\Debug\Village.pdb
